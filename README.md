@@ -1,7 +1,5 @@
 # Stock Trader
 
-[![Stock Trader](https://img.shields.io/badge/Stock-Trader-blue?logo=streamlit)]({{ [STREAMLIT_URL](https://stock-tracking.streamlit.app/) }})
-
 Stock Insights: Interactive Dashboard and Trend Analysis
 This Python script, stock_data_collector.py, is a Streamlit application that fetches stock data from Yahoo Finance, displays it as an interactive line chart, and provides analytics based on the selected duration.
 
